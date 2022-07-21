@@ -188,11 +188,11 @@ Don't forget to give the project a star! Thanks again!
 
 :rocket: [`Frontend Admin Ankasa Tiketing`](https://github.com/wahyuwww/Ankasa-Ticketing-FE)
 
-:rocket: [`Web Service`](avtur-ankasa-ticketing.herokuapp.com/)
+:rocket: [`Web Service`](http://avtur-ankasa-ticketing.herokuapp.com/)
 
 :rocket: [`Demo Ankasa Tiketing`](https://angkasa-tiketing.netlify.app/)
 
-:rocket: [`Demo Admin Ankasa Tiketing`](admin-angkasa-group.netlify.app/)
+:rocket: [`Demo Admin Ankasa Tiketing`](https://admin-angkasa-group.netlify.app/)
 
 ## Our Team
 
